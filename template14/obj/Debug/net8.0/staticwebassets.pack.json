@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WEB\\template14\\template14\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\template14.bundle.scp.css",
+      "PackagePath": "staticwebassets\\template14.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\css\\bootstrap-responsive.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\img\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\img\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\css\\bootstrappage.css",
+      "PackagePath": "staticwebassets\\themes\\css\\bootstrappage.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\themes\\css\\flexslider.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\themes\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\css\\main.css",
+      "PackagePath": "staticwebassets\\themes\\css\\main.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\arrow-p.png",
+      "PackagePath": "staticwebassets\\themes\\images\\arrow-p.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\arrow-pleft.png",
+      "PackagePath": "staticwebassets\\themes\\images\\arrow-pleft.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\bg.png",
+      "PackagePath": "staticwebassets\\themes\\images\\bg.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\carousel\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\carousel\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\carousel\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\carousel\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\1.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\14.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\14.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\2.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\3.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\35.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\35.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\themes\\images\\clients\\4.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware1.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware2.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware3.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware4.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware5.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\cloth\\bootstrap-women-ware6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\cloth\\bootstrap-women-ware6.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\feature_img_1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_1.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\feature_img_2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_2.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\feature_img_3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\feature_img_3.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\gotop.png",
+      "PackagePath": "staticwebassets\\themes\\images\\gotop.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\1.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\2.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\3.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\4.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\5.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\6.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\7.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\7.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\8.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\8.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\ladies\\9.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\ladies\\9.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\line_bar.png",
+      "PackagePath": "staticwebassets\\themes\\images\\line_bar.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\logo.png",
+      "PackagePath": "staticwebassets\\themes\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m1.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m1.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m2.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m2.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m3.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m3.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m4.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m4.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m5.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m5.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\m6.png",
+      "PackagePath": "staticwebassets\\themes\\images\\m6.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\pageBanner.png",
+      "PackagePath": "staticwebassets\\themes\\images\\pageBanner.png"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\project_img2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img2.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\project_img3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img3.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\project_img4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img4.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\images\\project_img6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\project_img6.jpg"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\common.js",
+      "PackagePath": "staticwebassets\\themes\\js\\common.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\js\\css\\style.css"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\jquery-1.7.2.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery-1.7.2.min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\jquery.scrolltotop.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.scrolltotop.js"
+    },
+    {
+      "Id": "E:\\WEB\\template14\\template14\\wwwroot\\themes\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\themes\\js\\superfish.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.template14.props",
+      "PackagePath": "build\\template14.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.template14.props",
+      "PackagePath": "buildMultiTargeting\\template14.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.template14.props",
+      "PackagePath": "buildTransitive\\template14.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.template14.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
